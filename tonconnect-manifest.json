@@ -1,5 +1,5 @@
 {
-    "url": "https://discord.gg/jNSzBMZQa9",
-    "name": "Alphadhad X Bot",
-    "iconUrl": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"
+  "name": "Alphadhad X Bot",
+  "url": "https://www.alphadhad.com/ax",  // Your website or bot's page
+  "iconUrl": "https://axlive.vercel.app/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fddbjj6er3%2Fimage%2Fupload%2Fv1727142609%2Fax2_dwd5vx.png&w=384&q=75"  // Link to your bot's icon image
 }
