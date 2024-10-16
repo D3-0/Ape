@@ -1,5 +1,12 @@
-{
-  "url": "https://d3-0.github.io/Ape",
-  "name": "Ape - Mod",
-  "iconUrl": "https://i.ibb.co/dMJ7KtV/IMG-5570.png"
-}
+  {
+    "manifestUrl": "https://d3-0.github.io/Ape/tonconnect-manifest.json",
+    "name": "Alphadhad X Discord Bot",
+    "url": "https://f65c-146-70-187-159.ngrok-free.app/tonconnect_callback",
+    "icons": [
+      {
+        "url": "https://i.ibb.co/dMJ7KtV/IMG-5570.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      }
+    ]
+  }
