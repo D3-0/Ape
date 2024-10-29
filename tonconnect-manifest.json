@@ -1,5 +1,7 @@
 {
-  "name": "AlphaDHAD Discord Bot",
   "url": "https://42c7-37-231-255-197.ngrok-free.app/tonconnect_callback",
-  "iconUrl": "https://i.ibb.co/dMJ7KtV/IMG-5570.png"
+  "name": "AlphaDHAD Discord Bot",
+  "iconUrl": "https://i.ibb.co/dMJ7KtV/IMG-5570.png",
+  "termsOfUseUrl": "",
+  "privacyPolicyUrl": ""
 }
